@@ -1,0 +1,15 @@
+Step 1 & 2
+What are your favorite books? You can make a database table to store them in! In this first step, create a table to store your list of books. It should have columns for id, name, and rating then add/store Values.
+
+
+
+CREATE TABLE listOfBooks (
+id INTEGER PRIMARY KEY,
+name TEXT,
+rating INTEGER
+);
+
+
+INSERT INTO listOfBooks VALUES (1, "Eat That Frog", 4.7);
+INSERT INTO listOfBooks VALUES (2, "No Excuses!", 4.8);
+INSERT INTO listOfBooks VALUES (3, "Maximum Achievement", 4.3);

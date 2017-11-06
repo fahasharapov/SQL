@@ -1,0 +1,11 @@
+
+
+
+/***************************
+
+SELECT * sql_tutorials
+FROM www.khanacademy.org 
+WHERE challenges > 0;
+
+***************************/
+
