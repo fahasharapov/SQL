@@ -6,6 +6,7 @@ Now, use another SELECT with a JOIN to show the names of each pair of friends, b
 
 
 
+
 CREATE TABLE persons (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     fullname TEXT,
